@@ -1,0 +1,11 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: url(images/vaporwave.gif);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: 110% 110%;
+	background-position: 57.9% center;
+}
