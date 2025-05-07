@@ -427,6 +427,16 @@ h3 b{
   display: block;
 }
 
+.dropdown-birdcontent {
+  display: none;
+  position: absolute;
+  margin: -400px 710px;
+  background-color: transparent;
+  min-width: 300px;
+  z-index: 1;
+  
+}
+
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #ddd;}
 
