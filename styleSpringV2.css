@@ -89,9 +89,26 @@ background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666
  cursor: pointer;
 color: #ffffff;
     background-size: 400% 100%;
-
-
 }
+
+.birdbutton {
+  
+  /* color: #341c12; */
+  padding: 4px;
+  font-size: 32px;
+  /* background-color: transparent; */
+  border: none;
+  cursor: pointer;
+  font-style:italic;
+  position: absolute;
+  margin: -80px 320px;
+    background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow_animation 1s ease-in-out infinite;
+    background-size: 400% 100%;
+} 
 a {
 	color: #736270;
 /*#5F3E2F*/
