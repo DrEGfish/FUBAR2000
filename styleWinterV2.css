@@ -306,7 +306,7 @@ out {
 	list-style: none;
 	background: 0px 15px url(images/outlook.png) no-repeat;
 	background-size: 15%;
-
+}
 snk {
 	margin: 0px;
 	padding: 0px 0px 5px 20px;
@@ -486,6 +486,7 @@ h3 b{
         background-position: 100% 0;
     }
 }
+
 
 
 
