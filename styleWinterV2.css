@@ -308,12 +308,12 @@ out {
 	background-size: 15%;
 
 }
-shar {
+shr {
 	margin: 0px;
 	padding: 10px 0px 5px 20px;
 	list-style: none;
 	background: 0px 15px url(images/sharepoint.png) no-repeat;
-	background-size: 15%;
+	background-size: 5%;
 
 }
 
@@ -496,6 +496,7 @@ h3 b{
         background-position: 100% 0;
     }
 }
+
 
 
 
