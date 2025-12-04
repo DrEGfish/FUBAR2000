@@ -304,8 +304,8 @@ out {
 	margin: 0px;
 	padding: 10px 0px 5px 20px;
 	list-style: none;
-	background: 0px 8px url(images/outlook.png) no-repeat;
-	background-size: 8%;
+	background: 0px 15px url(images/outlook.png) no-repeat;
+	background-size: 15%;
 
 }
 
@@ -488,5 +488,6 @@ h3 b{
         background-position: 100% 0;
     }
 }
+
 
 
