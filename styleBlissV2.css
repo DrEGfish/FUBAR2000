@@ -78,7 +78,7 @@ body {
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	top: 42%; left: 45%;
+	top: 40%; left: 43%;
 background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
     animation: spiral 5s linear infinite;
  cursor: pointer;
@@ -173,7 +173,7 @@ img {
 	color:#260403;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	margin: 12px 0px 10px 0px;
-	padding: 0px 20px 0px 20px;
+	padding: 0px 17px 0px 17px;
 	display:inline;
 	float:left;
 	border-right-width: 2px;
@@ -281,7 +281,13 @@ bad {
 	background-size: 8%;
 	font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
-
+out {
+	margin: 0px;
+	padding: 10px 0px 5px 20px;
+	list-style: none;
+	background: 0px 15px url(images/outlook.png) no-repeat;
+	background-size: 15%;
+}
 kev {
 	margin: 0px;
 	padding: 10px 0px 5px 20px;
@@ -470,3 +476,4 @@ h3 b{
         background-position: 100% 0;
     }
 }
+
