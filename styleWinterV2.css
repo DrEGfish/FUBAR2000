@@ -80,7 +80,7 @@ body {
 	width: 50px;
 	height: 50px;
 	position: absolute;
-	top: 42%; left: 45%;
+	top: 40%; left: 43%;
 background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
     animation: spiral 5s linear infinite;
  cursor: pointer;
@@ -300,6 +300,15 @@ kev {
 
 }
 
+out {
+	margin: 0px;
+	padding: 10px 0px 5px 20px;
+	list-style: none;
+	background: 0px 8px url(images/outlook.png) no-repeat;
+	background-size: 8%;
+
+}
+
 snk {
 	margin: 0px;
 	padding: 0px 0px 5px 20px;
@@ -479,4 +488,5 @@ h3 b{
         background-position: 100% 0;
     }
 }
+
 
